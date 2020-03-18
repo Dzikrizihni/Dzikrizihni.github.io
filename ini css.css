@@ -1,4 +1,4 @@
 h1 {color: red;} h1 {background-color: black;} h1 {text-align: center;}
 p {color: white;} p {background-color: rgba(0,0,0,0.8);} p {font-size: 20px}
 ul{font-size: 20px} ul{list-style: none;} ul{color: white;} ul{background-color: rgba(0,0,0,0.8);}
-body {background-image: url('15.jpeg'); background-attachment: fixed; background-size: cover;}
+body {background-image: url('15.jpg'); background-attachment: fixed; background-size: cover;}
